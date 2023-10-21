@@ -6,9 +6,9 @@
 #
 
 PRODUCT_MAKEFILES := \
-    $(LOCAL_DIR)/omni_RMX3261.mk
+    $(LOCAL_DIR)/twrp_RMX3261.mk
 
 COMMON_LUNCH_CHOICES := \
-    omni_RMX3261-user \
-    omni_RMX3261-userdebug \
-    omni_RMX3261-eng
+    twrp_RMX3261-user \
+    twrp_RMX3261-userdebug \
+    twrp_RMX3261-eng
